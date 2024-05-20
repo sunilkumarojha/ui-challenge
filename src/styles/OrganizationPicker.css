@@ -1,0 +1,23 @@
+.organization-picker {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .organization-list {
+    margin-top: 20px;
+  }
+  
+  .organization-item {
+    background: #fff;
+    margin: 10px auto;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .organization-item:hover {
+    background: #e0e0e0;
+  }
+  

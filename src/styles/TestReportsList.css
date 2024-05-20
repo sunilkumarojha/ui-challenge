@@ -1,0 +1,28 @@
+.test-reports {
+    display: flex;
+  }
+  
+  aside {
+    width: 200px;
+    background: #f8f8f8;
+    padding: 20px;
+  }
+  
+  .report-list {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .report-item {
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .report-item:hover {
+    background: #e0e0e0;
+  }
+  
